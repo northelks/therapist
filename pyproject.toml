@@ -1,0 +1,13 @@
+[project]
+name = "welcome-email"
+version = "0.1.0"
+description = "desc"
+requires-python = ">=3.12"
+dependencies = []
+
+[project.optional-dependencies]
+dev = ["pytest"]
+
+[tool.pytest.ini_options]
+pythonpath = ["."]
+testpaths = ["tests"]

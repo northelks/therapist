@@ -1,0 +1,21 @@
+Subject: Welcome to the team, $first_name
+
+Hi $first_name,
+
+Welcome aboard. We are glad you are joining us, and your first day is $start_date.
+
+Before then, two things to do:
+
+- Watch for a separate email with your account details. It arrives the working day
+  before you start, from our IT team.
+- Have a look at the new therapist handbook. Everything about scheduling, notes and
+  who to ask for what is in there.
+
+Your onboarding buddy will be in touch this week to set up a short call.
+
+If anything here looks wrong, or you have not had the account email by your first
+morning, just reply to this message.
+
+See you on $start_date.
+
+The People team

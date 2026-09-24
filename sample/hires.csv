@@ -1,0 +1,6 @@
+hire_id,name,email,status,hired_at,start_date,welcome_sent_at,welcome_message_id,attempts,last_attempt_at,note
+H-1041,Dana Okafor,dana.okafor@example.org,Hired,2026-09-22T09:12:00Z,2026-10-05,,,,,
+H-1042,Marcus Bell,marcus.bell@example.org,Hired,2026-09-23T15:40:00Z,2026-10-12,,,,,
+H-1043,Priya Raman,priya.raman@exampleorg,Hired,2026-09-23T16:02:00Z,2026-10-12,,,,,
+H-1044,Sam Whitfield,sam.whitfield@example.org,Interviewing,,,,,,,
+H-1045,Lena Fisher,lena.fisher@example.org,Sent,2026-09-18T11:00:00Z,2026-09-29,2026-09-18T11:04:12Z,demo-7a1c9e4b2f80,,,
